@@ -10,10 +10,10 @@
 
 ### 🧠 About Me:
 
-- 🌟 I build things for the web & beyond.
-- 🚧 Currently working on: `WebApps`, `AI Projects`, and `Open Source Stuff`.
-- 🎯 3rd-year B.Tech student & hardcore coder with a love for sleek UIs and brutal DSA problems.
-- ⚡ Fun fact: I love turning coffee into code & problems into pixels.
+- 🧑‍💻 3rd year B.Tech student | Developer by day, debugger by night  
+- 🥇 Striving to be in the top 1% of developers (manifesting that shit 🔮)
+- 💪 Hardcore workout addict, because deadlifts and deadlines both matter
+- 🧳 Travel buff | 💡 Building ideas from train rides and coffee spills
 
 ---
 
@@ -69,7 +69,7 @@
 ---
 
 ### ⚡ Quote That Drives Me:
-> "Eat. Sleep. Code. Repeat. Debug. Dominate."
+> "Eat. Sleep. Code. Repeat. Debug. Dominate." (Procrasintating most of the times 😅)
 
 ---
 
